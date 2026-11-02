@@ -1,0 +1,14 @@
+
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days),Borrowing Time,Due Date,Return Date
+T001,2025-01-05,U001,Atomic Habits,Self Help,5,09:30,2025-01-19,2025-01-15
+T002,2025-01-07,U002,The Alchemist,Fiction,7,10:30,2025-01-21,2025-01-20
+T003,2025-01-10,U003,Harry Potter,Fantasy,10,11:00,2025-01-24,2025-01-27
+T004,2025-02-02,U001,Atomic Habits,Self Help,4,12:00,2025-02-16,2025-02-06
+T005,2025-02-05,U004,Wings of Fire,Biography,8,14:30,2025-02-19,2025-02-18
+T006,2025-02-10,U002,The Alchemist,Fiction,6,15:00,2025-02-24,2025-02-16
+T007,2025-03-01,U005,Harry Potter,Fantasy,12,09:00,2025-03-15,2025-03-18
+T008,2025-03-05,U003,Atomic Habits,Self Help,3,16:00,2025-03-19,2025-03-08
+T009,2025-03-12,U006,Sapiens,History,9,17:00,2025-03-26,2025-03-25
+T010,2025-04-01,U001,Harry Potter,Fantasy,5,10:00,2025-04-15,2025-04-08
+T011,2025-04-07,U002,Atomic Habits,Self Help,7,11:30,2025-04-21,2025-04-18
+T012,2025-04-15,U003,The Alchemist,Fiction,4,13:00,2025-04-29,2025-04-20
